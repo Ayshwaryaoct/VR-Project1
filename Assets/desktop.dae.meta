@@ -1,0 +1,226 @@
+fileFormatVersion: 2
+guid: 29d3aa5a4620e444ebd9bba3a6dfe0af
+timeCreated: 1505707404
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Asus_Moniter
+    100002: //RootNode
+    100004: group_0
+    100006: group_1
+    100008: group_2
+    100010: ID12
+    100012: ID122
+    100014: ID150
+    100016: ID160
+    100018: ID168
+    100020: ID176
+    100022: ID184
+    100024: ID192
+    100026: ID205
+    100028: ID213
+    100030: ID221
+    100032: ID229
+    100034: ID237
+    100036: ID245
+    100038: ID25
+    100040: ID253
+    100042: ID261
+    100044: ID269
+    100046: ID47
+    100048: ID60
+    100050: ID68
+    100052: ID76
+    100054: ID91
+    100056: ID99
+    100058: instance_0
+    100060: instance_1
+    100062: Microsoft_keyboard
+    100064: skp_camera_Last_Saved_SketchUp_View
+    400000: Asus_Moniter
+    400002: //RootNode
+    400004: group_0
+    400006: group_1
+    400008: group_2
+    400010: ID12
+    400012: ID122
+    400014: ID150
+    400016: ID160
+    400018: ID168
+    400020: ID176
+    400022: ID184
+    400024: ID192
+    400026: ID205
+    400028: ID213
+    400030: ID221
+    400032: ID229
+    400034: ID237
+    400036: ID245
+    400038: ID25
+    400040: ID253
+    400042: ID261
+    400044: ID269
+    400046: ID47
+    400048: ID60
+    400050: ID68
+    400052: ID76
+    400054: ID91
+    400056: ID99
+    400058: instance_0
+    400060: instance_1
+    400062: Microsoft_keyboard
+    400064: skp_camera_Last_Saved_SketchUp_View
+    2300000: Asus_Moniter
+    2300002: group_0
+    2300004: group_1
+    2300006: group_2
+    2300008: ID12
+    2300010: ID122
+    2300012: ID150
+    2300014: ID160
+    2300016: ID168
+    2300018: ID176
+    2300020: ID184
+    2300022: ID192
+    2300024: ID205
+    2300026: ID213
+    2300028: ID221
+    2300030: ID229
+    2300032: ID237
+    2300034: ID245
+    2300036: ID25
+    2300038: ID253
+    2300040: ID261
+    2300042: ID47
+    2300044: ID60
+    2300046: ID68
+    2300048: ID76
+    2300050: ID91
+    2300052: ID99
+    2300054: Microsoft_keyboard
+    3300000: Asus_Moniter
+    3300002: group_0
+    3300004: group_1
+    3300006: group_2
+    3300008: ID12
+    3300010: ID122
+    3300012: ID150
+    3300014: ID160
+    3300016: ID168
+    3300018: ID176
+    3300020: ID184
+    3300022: ID192
+    3300024: ID205
+    3300026: ID213
+    3300028: ID221
+    3300030: ID229
+    3300032: ID237
+    3300034: ID245
+    3300036: ID25
+    3300038: ID253
+    3300040: ID261
+    3300042: ID47
+    3300044: ID60
+    3300046: ID68
+    3300048: ID76
+    3300050: ID91
+    3300052: ID99
+    3300054: Microsoft_keyboard
+    4300000: group_0
+    4300002: ID12
+    4300004: ID25
+    4300006: group_1
+    4300008: ID47
+    4300010: ID60
+    4300012: ID68
+    4300014: ID76
+    4300016: group_2
+    4300018: ID91
+    4300020: ID99
+    4300022: Microsoft_keyboard
+    4300024: ID122
+    4300026: Asus_Moniter
+    4300028: ID150
+    4300030: ID160
+    4300032: ID168
+    4300034: ID176
+    4300036: ID184
+    4300038: ID192
+    4300040: ID205
+    4300042: ID213
+    4300044: ID221
+    4300046: ID229
+    4300048: ID237
+    4300050: ID245
+    4300052: ID253
+    4300054: ID261
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

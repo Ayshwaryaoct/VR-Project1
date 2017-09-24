@@ -1,0 +1,927 @@
+fileFormatVersion: 2
+guid: 2331bcc5c81c39245bf265ce8f47235f
+timeCreated: 1505675267
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Component_1
+    100004: Component_1 1
+    100006: Component_1 2
+    100008: Component_1 3
+    100010: Component_1 4
+    100012: Component_1 5
+    100014: Component_2
+    100016: Component_3
+    100018: Component_4
+    100020: Cube
+    100022: ID100
+    100024: ID100 1
+    100026: ID100 10
+    100028: ID100 11
+    100030: ID100 12
+    100032: ID100 13
+    100034: ID100 14
+    100036: ID100 15
+    100038: ID100 16
+    100040: ID100 17
+    100042: ID100 18
+    100044: ID100 19
+    100046: ID100 2
+    100048: ID100 20
+    100050: ID100 21
+    100052: ID100 22
+    100054: ID100 23
+    100056: ID100 24
+    100058: ID100 25
+    100060: ID100 26
+    100062: ID100 27
+    100064: ID100 28
+    100066: ID100 29
+    100068: ID100 3
+    100070: ID100 30
+    100072: ID100 31
+    100074: ID100 32
+    100076: ID100 33
+    100078: ID100 34
+    100080: ID100 35
+    100082: ID100 36
+    100084: ID100 37
+    100086: ID100 38
+    100088: ID100 39
+    100090: ID100 4
+    100092: ID100 40
+    100094: ID100 41
+    100096: ID100 5
+    100098: ID100 6
+    100100: ID100 7
+    100102: ID100 8
+    100104: ID100 9
+    100106: ID140
+    100108: ID140 1
+    100110: ID140 2
+    100112: ID140 3
+    100114: ID155
+    100116: ID155 1
+    100118: ID155 2
+    100120: ID155 3
+    100122: ID63
+    100124: ID69
+    100126: ID86
+    100128: ID86 1
+    100130: ID86 10
+    100132: ID86 11
+    100134: ID86 12
+    100136: ID86 13
+    100138: ID86 14
+    100140: ID86 15
+    100142: ID86 16
+    100144: ID86 17
+    100146: ID86 18
+    100148: ID86 19
+    100150: ID86 2
+    100152: ID86 20
+    100154: ID86 21
+    100156: ID86 22
+    100158: ID86 23
+    100160: ID86 24
+    100162: ID86 25
+    100164: ID86 26
+    100166: ID86 27
+    100168: ID86 28
+    100170: ID86 29
+    100172: ID86 3
+    100174: ID86 30
+    100176: ID86 31
+    100178: ID86 32
+    100180: ID86 33
+    100182: ID86 34
+    100184: ID86 35
+    100186: ID86 36
+    100188: ID86 37
+    100190: ID86 38
+    100192: ID86 39
+    100194: ID86 4
+    100196: ID86 40
+    100198: ID86 41
+    100200: ID86 5
+    100202: ID86 6
+    100204: ID86 7
+    100206: ID86 8
+    100208: ID86 9
+    100210: ID94
+    100212: ID94 1
+    100214: ID94 10
+    100216: ID94 11
+    100218: ID94 12
+    100220: ID94 13
+    100222: ID94 14
+    100224: ID94 15
+    100226: ID94 16
+    100228: ID94 17
+    100230: ID94 18
+    100232: ID94 19
+    100234: ID94 2
+    100236: ID94 20
+    100238: ID94 21
+    100240: ID94 22
+    100242: ID94 23
+    100244: ID94 24
+    100246: ID94 25
+    100248: ID94 26
+    100250: ID94 27
+    100252: ID94 28
+    100254: ID94 29
+    100256: ID94 3
+    100258: ID94 30
+    100260: ID94 31
+    100262: ID94 32
+    100264: ID94 33
+    100266: ID94 34
+    100268: ID94 35
+    100270: ID94 36
+    100272: ID94 37
+    100274: ID94 38
+    100276: ID94 39
+    100278: ID94 4
+    100280: ID94 40
+    100282: ID94 41
+    100284: ID94 5
+    100286: ID94 6
+    100288: ID94 7
+    100290: ID94 8
+    100292: ID94 9
+    100294: instance_0
+    100296: instance_1
+    100298: instance_10
+    100300: instance_11
+    100302: instance_12
+    100304: instance_12 1
+    100306: instance_13
+    100308: instance_13 1
+    100310: instance_14
+    100312: instance_14 1
+    100314: instance_15
+    100316: instance_15 1
+    100318: instance_16
+    100320: instance_16 1
+    100322: instance_17
+    100324: instance_17 1
+    100326: instance_18
+    100328: instance_18 1
+    100330: instance_19
+    100332: instance_19 1
+    100334: instance_2
+    100336: instance_20
+    100338: instance_20 1
+    100340: instance_21
+    100342: instance_21 1
+    100344: instance_22
+    100346: instance_22 1
+    100348: instance_23
+    100350: instance_23 1
+    100352: instance_24
+    100354: instance_24 1
+    100356: instance_25
+    100358: instance_25 1
+    100360: instance_26
+    100362: instance_26 1
+    100364: instance_27
+    100366: instance_27 1
+    100368: instance_28
+    100370: instance_28 1
+    100372: instance_29
+    100374: instance_29 1
+    100376: instance_3
+    100378: instance_30
+    100380: instance_30 1
+    100382: instance_31
+    100384: instance_31 1
+    100386: instance_32
+    100388: instance_32 1
+    100390: instance_33
+    100392: instance_33 1
+    100394: instance_34
+    100396: instance_34 1
+    100398: instance_35
+    100400: instance_35 1
+    100402: instance_36
+    100404: instance_36 1
+    100406: instance_37
+    100408: instance_4
+    100410: instance_5
+    100412: instance_6
+    100414: instance_7
+    100416: instance_8
+    100418: instance_9
+    100420: Plant_Snake
+    100422: Plant_Snake 1
+    100424: Plant_Snake 2
+    100426: Plant_Snake 3
+    100428: Plant_Snake 4
+    100430: Plant_Snake 5
+    100432: Plant_Snake_Leaf
+    100434: Plant_Snake_Leaf 1
+    100436: Plant_Snake_Leaf 10
+    100438: Plant_Snake_Leaf 11
+    100440: Plant_Snake_Leaf 12
+    100442: Plant_Snake_Leaf 13
+    100444: Plant_Snake_Leaf 14
+    100446: Plant_Snake_Leaf 15
+    100448: Plant_Snake_Leaf 16
+    100450: Plant_Snake_Leaf 17
+    100452: Plant_Snake_Leaf 18
+    100454: Plant_Snake_Leaf 19
+    100456: Plant_Snake_Leaf 2
+    100458: Plant_Snake_Leaf 20
+    100460: Plant_Snake_Leaf 21
+    100462: Plant_Snake_Leaf 22
+    100464: Plant_Snake_Leaf 23
+    100466: Plant_Snake_Leaf 24
+    100468: Plant_Snake_Leaf 25
+    100470: Plant_Snake_Leaf 26
+    100472: Plant_Snake_Leaf 27
+    100474: Plant_Snake_Leaf 28
+    100476: Plant_Snake_Leaf 29
+    100478: Plant_Snake_Leaf 3
+    100480: Plant_Snake_Leaf 30
+    100482: Plant_Snake_Leaf 31
+    100484: Plant_Snake_Leaf 32
+    100486: Plant_Snake_Leaf 33
+    100488: Plant_Snake_Leaf 34
+    100490: Plant_Snake_Leaf 35
+    100492: Plant_Snake_Leaf 36
+    100494: Plant_Snake_Leaf 37
+    100496: Plant_Snake_Leaf 38
+    100498: Plant_Snake_Leaf 39
+    100500: Plant_Snake_Leaf 4
+    100502: Plant_Snake_Leaf 40
+    100504: Plant_Snake_Leaf 41
+    100506: Plant_Snake_Leaf 5
+    100508: Plant_Snake_Leaf 6
+    100510: Plant_Snake_Leaf 7
+    100512: Plant_Snake_Leaf 8
+    100514: Plant_Snake_Leaf 9
+    100516: Plant_Snake_Pot
+    100518: Plant_Snake_Pot 1
+    100520: Plant_Snake_Pot 2
+    100522: Plant_Snake_Pot 3
+    100524: Plant_Snake_Pot 4
+    100526: Plant_Snake_Pot 5
+    100528: Plant_Snake_Pot 6
+    100530: Plant_Snake_Pot 7
+    100532: Potted_snake_plant
+    100534: Potted_snake_plant 1
+    100536: skp_camera_Last_Saved_SketchUp_View
+    100538: skpC2A8
+    400000: //RootNode
+    400002: Component_1
+    400004: Component_1 1
+    400006: Component_1 2
+    400008: Component_1 3
+    400010: Component_1 4
+    400012: Component_1 5
+    400014: Component_2
+    400016: Component_3
+    400018: Component_4
+    400020: Cube
+    400022: ID100
+    400024: ID100 1
+    400026: ID100 10
+    400028: ID100 11
+    400030: ID100 12
+    400032: ID100 13
+    400034: ID100 14
+    400036: ID100 15
+    400038: ID100 16
+    400040: ID100 17
+    400042: ID100 18
+    400044: ID100 19
+    400046: ID100 2
+    400048: ID100 20
+    400050: ID100 21
+    400052: ID100 22
+    400054: ID100 23
+    400056: ID100 24
+    400058: ID100 25
+    400060: ID100 26
+    400062: ID100 27
+    400064: ID100 28
+    400066: ID100 29
+    400068: ID100 3
+    400070: ID100 30
+    400072: ID100 31
+    400074: ID100 32
+    400076: ID100 33
+    400078: ID100 34
+    400080: ID100 35
+    400082: ID100 36
+    400084: ID100 37
+    400086: ID100 38
+    400088: ID100 39
+    400090: ID100 4
+    400092: ID100 40
+    400094: ID100 41
+    400096: ID100 5
+    400098: ID100 6
+    400100: ID100 7
+    400102: ID100 8
+    400104: ID100 9
+    400106: ID140
+    400108: ID140 1
+    400110: ID140 2
+    400112: ID140 3
+    400114: ID155
+    400116: ID155 1
+    400118: ID155 2
+    400120: ID155 3
+    400122: ID63
+    400124: ID69
+    400126: ID86
+    400128: ID86 1
+    400130: ID86 10
+    400132: ID86 11
+    400134: ID86 12
+    400136: ID86 13
+    400138: ID86 14
+    400140: ID86 15
+    400142: ID86 16
+    400144: ID86 17
+    400146: ID86 18
+    400148: ID86 19
+    400150: ID86 2
+    400152: ID86 20
+    400154: ID86 21
+    400156: ID86 22
+    400158: ID86 23
+    400160: ID86 24
+    400162: ID86 25
+    400164: ID86 26
+    400166: ID86 27
+    400168: ID86 28
+    400170: ID86 29
+    400172: ID86 3
+    400174: ID86 30
+    400176: ID86 31
+    400178: ID86 32
+    400180: ID86 33
+    400182: ID86 34
+    400184: ID86 35
+    400186: ID86 36
+    400188: ID86 37
+    400190: ID86 38
+    400192: ID86 39
+    400194: ID86 4
+    400196: ID86 40
+    400198: ID86 41
+    400200: ID86 5
+    400202: ID86 6
+    400204: ID86 7
+    400206: ID86 8
+    400208: ID86 9
+    400210: ID94
+    400212: ID94 1
+    400214: ID94 10
+    400216: ID94 11
+    400218: ID94 12
+    400220: ID94 13
+    400222: ID94 14
+    400224: ID94 15
+    400226: ID94 16
+    400228: ID94 17
+    400230: ID94 18
+    400232: ID94 19
+    400234: ID94 2
+    400236: ID94 20
+    400238: ID94 21
+    400240: ID94 22
+    400242: ID94 23
+    400244: ID94 24
+    400246: ID94 25
+    400248: ID94 26
+    400250: ID94 27
+    400252: ID94 28
+    400254: ID94 29
+    400256: ID94 3
+    400258: ID94 30
+    400260: ID94 31
+    400262: ID94 32
+    400264: ID94 33
+    400266: ID94 34
+    400268: ID94 35
+    400270: ID94 36
+    400272: ID94 37
+    400274: ID94 38
+    400276: ID94 39
+    400278: ID94 4
+    400280: ID94 40
+    400282: ID94 41
+    400284: ID94 5
+    400286: ID94 6
+    400288: ID94 7
+    400290: ID94 8
+    400292: ID94 9
+    400294: instance_0
+    400296: instance_1
+    400298: instance_10
+    400300: instance_11
+    400302: instance_12
+    400304: instance_12 1
+    400306: instance_13
+    400308: instance_13 1
+    400310: instance_14
+    400312: instance_14 1
+    400314: instance_15
+    400316: instance_15 1
+    400318: instance_16
+    400320: instance_16 1
+    400322: instance_17
+    400324: instance_17 1
+    400326: instance_18
+    400328: instance_18 1
+    400330: instance_19
+    400332: instance_19 1
+    400334: instance_2
+    400336: instance_20
+    400338: instance_20 1
+    400340: instance_21
+    400342: instance_21 1
+    400344: instance_22
+    400346: instance_22 1
+    400348: instance_23
+    400350: instance_23 1
+    400352: instance_24
+    400354: instance_24 1
+    400356: instance_25
+    400358: instance_25 1
+    400360: instance_26
+    400362: instance_26 1
+    400364: instance_27
+    400366: instance_27 1
+    400368: instance_28
+    400370: instance_28 1
+    400372: instance_29
+    400374: instance_29 1
+    400376: instance_3
+    400378: instance_30
+    400380: instance_30 1
+    400382: instance_31
+    400384: instance_31 1
+    400386: instance_32
+    400388: instance_32 1
+    400390: instance_33
+    400392: instance_33 1
+    400394: instance_34
+    400396: instance_34 1
+    400398: instance_35
+    400400: instance_35 1
+    400402: instance_36
+    400404: instance_36 1
+    400406: instance_37
+    400408: instance_4
+    400410: instance_5
+    400412: instance_6
+    400414: instance_7
+    400416: instance_8
+    400418: instance_9
+    400420: Plant_Snake
+    400422: Plant_Snake 1
+    400424: Plant_Snake 2
+    400426: Plant_Snake 3
+    400428: Plant_Snake 4
+    400430: Plant_Snake 5
+    400432: Plant_Snake_Leaf
+    400434: Plant_Snake_Leaf 1
+    400436: Plant_Snake_Leaf 10
+    400438: Plant_Snake_Leaf 11
+    400440: Plant_Snake_Leaf 12
+    400442: Plant_Snake_Leaf 13
+    400444: Plant_Snake_Leaf 14
+    400446: Plant_Snake_Leaf 15
+    400448: Plant_Snake_Leaf 16
+    400450: Plant_Snake_Leaf 17
+    400452: Plant_Snake_Leaf 18
+    400454: Plant_Snake_Leaf 19
+    400456: Plant_Snake_Leaf 2
+    400458: Plant_Snake_Leaf 20
+    400460: Plant_Snake_Leaf 21
+    400462: Plant_Snake_Leaf 22
+    400464: Plant_Snake_Leaf 23
+    400466: Plant_Snake_Leaf 24
+    400468: Plant_Snake_Leaf 25
+    400470: Plant_Snake_Leaf 26
+    400472: Plant_Snake_Leaf 27
+    400474: Plant_Snake_Leaf 28
+    400476: Plant_Snake_Leaf 29
+    400478: Plant_Snake_Leaf 3
+    400480: Plant_Snake_Leaf 30
+    400482: Plant_Snake_Leaf 31
+    400484: Plant_Snake_Leaf 32
+    400486: Plant_Snake_Leaf 33
+    400488: Plant_Snake_Leaf 34
+    400490: Plant_Snake_Leaf 35
+    400492: Plant_Snake_Leaf 36
+    400494: Plant_Snake_Leaf 37
+    400496: Plant_Snake_Leaf 38
+    400498: Plant_Snake_Leaf 39
+    400500: Plant_Snake_Leaf 4
+    400502: Plant_Snake_Leaf 40
+    400504: Plant_Snake_Leaf 41
+    400506: Plant_Snake_Leaf 5
+    400508: Plant_Snake_Leaf 6
+    400510: Plant_Snake_Leaf 7
+    400512: Plant_Snake_Leaf 8
+    400514: Plant_Snake_Leaf 9
+    400516: Plant_Snake_Pot
+    400518: Plant_Snake_Pot 1
+    400520: Plant_Snake_Pot 2
+    400522: Plant_Snake_Pot 3
+    400524: Plant_Snake_Pot 4
+    400526: Plant_Snake_Pot 5
+    400528: Plant_Snake_Pot 6
+    400530: Plant_Snake_Pot 7
+    400532: Potted_snake_plant
+    400534: Potted_snake_plant 1
+    400536: skp_camera_Last_Saved_SketchUp_View
+    400538: skpC2A8
+    2300000: Component_1
+    2300002: Component_1 1
+    2300004: Component_1 2
+    2300006: Component_1 3
+    2300008: Component_1 4
+    2300010: Component_1 5
+    2300012: Component_2
+    2300014: Cube
+    2300016: ID140
+    2300018: ID140 1
+    2300020: ID140 2
+    2300022: ID140 3
+    2300024: ID155
+    2300026: ID155 1
+    2300028: ID155 2
+    2300030: ID155 3
+    2300032: ID86
+    2300034: ID86 1
+    2300036: ID86 10
+    2300038: ID86 11
+    2300040: ID86 12
+    2300042: ID86 13
+    2300044: ID86 14
+    2300046: ID86 15
+    2300048: ID86 16
+    2300050: ID86 17
+    2300052: ID86 18
+    2300054: ID86 19
+    2300056: ID86 2
+    2300058: ID86 20
+    2300060: ID86 21
+    2300062: ID86 22
+    2300064: ID86 23
+    2300066: ID86 24
+    2300068: ID86 25
+    2300070: ID86 26
+    2300072: ID86 27
+    2300074: ID86 28
+    2300076: ID86 29
+    2300078: ID86 3
+    2300080: ID86 30
+    2300082: ID86 31
+    2300084: ID86 32
+    2300086: ID86 33
+    2300088: ID86 34
+    2300090: ID86 35
+    2300092: ID86 36
+    2300094: ID86 37
+    2300096: ID86 38
+    2300098: ID86 39
+    2300100: ID86 4
+    2300102: ID86 40
+    2300104: ID86 41
+    2300106: ID86 5
+    2300108: ID86 6
+    2300110: ID86 7
+    2300112: ID86 8
+    2300114: ID86 9
+    2300116: ID94
+    2300118: ID94 1
+    2300120: ID94 10
+    2300122: ID94 11
+    2300124: ID94 12
+    2300126: ID94 13
+    2300128: ID94 14
+    2300130: ID94 15
+    2300132: ID94 16
+    2300134: ID94 17
+    2300136: ID94 18
+    2300138: ID94 19
+    2300140: ID94 2
+    2300142: ID94 20
+    2300144: ID94 21
+    2300146: ID94 22
+    2300148: ID94 23
+    2300150: ID94 24
+    2300152: ID94 25
+    2300154: ID94 26
+    2300156: ID94 27
+    2300158: ID94 28
+    2300160: ID94 29
+    2300162: ID94 3
+    2300164: ID94 30
+    2300166: ID94 31
+    2300168: ID94 32
+    2300170: ID94 33
+    2300172: ID94 34
+    2300174: ID94 35
+    2300176: ID94 36
+    2300178: ID94 37
+    2300180: ID94 38
+    2300182: ID94 39
+    2300184: ID94 4
+    2300186: ID94 40
+    2300188: ID94 41
+    2300190: ID94 5
+    2300192: ID94 6
+    2300194: ID94 7
+    2300196: ID94 8
+    2300198: ID94 9
+    2300200: Plant_Snake_Leaf
+    2300202: Plant_Snake_Leaf 1
+    2300204: Plant_Snake_Leaf 10
+    2300206: Plant_Snake_Leaf 11
+    2300208: Plant_Snake_Leaf 12
+    2300210: Plant_Snake_Leaf 13
+    2300212: Plant_Snake_Leaf 14
+    2300214: Plant_Snake_Leaf 15
+    2300216: Plant_Snake_Leaf 16
+    2300218: Plant_Snake_Leaf 17
+    2300220: Plant_Snake_Leaf 18
+    2300222: Plant_Snake_Leaf 19
+    2300224: Plant_Snake_Leaf 2
+    2300226: Plant_Snake_Leaf 20
+    2300228: Plant_Snake_Leaf 21
+    2300230: Plant_Snake_Leaf 22
+    2300232: Plant_Snake_Leaf 23
+    2300234: Plant_Snake_Leaf 24
+    2300236: Plant_Snake_Leaf 25
+    2300238: Plant_Snake_Leaf 26
+    2300240: Plant_Snake_Leaf 27
+    2300242: Plant_Snake_Leaf 28
+    2300244: Plant_Snake_Leaf 29
+    2300246: Plant_Snake_Leaf 3
+    2300248: Plant_Snake_Leaf 30
+    2300250: Plant_Snake_Leaf 31
+    2300252: Plant_Snake_Leaf 32
+    2300254: Plant_Snake_Leaf 33
+    2300256: Plant_Snake_Leaf 34
+    2300258: Plant_Snake_Leaf 35
+    2300260: Plant_Snake_Leaf 36
+    2300262: Plant_Snake_Leaf 37
+    2300264: Plant_Snake_Leaf 38
+    2300266: Plant_Snake_Leaf 39
+    2300268: Plant_Snake_Leaf 4
+    2300270: Plant_Snake_Leaf 40
+    2300272: Plant_Snake_Leaf 41
+    2300274: Plant_Snake_Leaf 5
+    2300276: Plant_Snake_Leaf 6
+    2300278: Plant_Snake_Leaf 7
+    2300280: Plant_Snake_Leaf 8
+    2300282: Plant_Snake_Leaf 9
+    2300284: Plant_Snake_Pot
+    2300286: Plant_Snake_Pot 1
+    2300288: Plant_Snake_Pot 2
+    2300290: Plant_Snake_Pot 3
+    2300292: Plant_Snake_Pot 4
+    2300294: Plant_Snake_Pot 5
+    2300296: Plant_Snake_Pot 6
+    2300298: Plant_Snake_Pot 7
+    3300000: Component_1
+    3300002: Component_1 1
+    3300004: Component_1 2
+    3300006: Component_1 3
+    3300008: Component_1 4
+    3300010: Component_1 5
+    3300012: Component_2
+    3300014: Cube
+    3300016: ID140
+    3300018: ID140 1
+    3300020: ID140 2
+    3300022: ID140 3
+    3300024: ID155
+    3300026: ID155 1
+    3300028: ID155 2
+    3300030: ID155 3
+    3300032: ID86
+    3300034: ID86 1
+    3300036: ID86 10
+    3300038: ID86 11
+    3300040: ID86 12
+    3300042: ID86 13
+    3300044: ID86 14
+    3300046: ID86 15
+    3300048: ID86 16
+    3300050: ID86 17
+    3300052: ID86 18
+    3300054: ID86 19
+    3300056: ID86 2
+    3300058: ID86 20
+    3300060: ID86 21
+    3300062: ID86 22
+    3300064: ID86 23
+    3300066: ID86 24
+    3300068: ID86 25
+    3300070: ID86 26
+    3300072: ID86 27
+    3300074: ID86 28
+    3300076: ID86 29
+    3300078: ID86 3
+    3300080: ID86 30
+    3300082: ID86 31
+    3300084: ID86 32
+    3300086: ID86 33
+    3300088: ID86 34
+    3300090: ID86 35
+    3300092: ID86 36
+    3300094: ID86 37
+    3300096: ID86 38
+    3300098: ID86 39
+    3300100: ID86 4
+    3300102: ID86 40
+    3300104: ID86 41
+    3300106: ID86 5
+    3300108: ID86 6
+    3300110: ID86 7
+    3300112: ID86 8
+    3300114: ID86 9
+    3300116: ID94
+    3300118: ID94 1
+    3300120: ID94 10
+    3300122: ID94 11
+    3300124: ID94 12
+    3300126: ID94 13
+    3300128: ID94 14
+    3300130: ID94 15
+    3300132: ID94 16
+    3300134: ID94 17
+    3300136: ID94 18
+    3300138: ID94 19
+    3300140: ID94 2
+    3300142: ID94 20
+    3300144: ID94 21
+    3300146: ID94 22
+    3300148: ID94 23
+    3300150: ID94 24
+    3300152: ID94 25
+    3300154: ID94 26
+    3300156: ID94 27
+    3300158: ID94 28
+    3300160: ID94 29
+    3300162: ID94 3
+    3300164: ID94 30
+    3300166: ID94 31
+    3300168: ID94 32
+    3300170: ID94 33
+    3300172: ID94 34
+    3300174: ID94 35
+    3300176: ID94 36
+    3300178: ID94 37
+    3300180: ID94 38
+    3300182: ID94 39
+    3300184: ID94 4
+    3300186: ID94 40
+    3300188: ID94 41
+    3300190: ID94 5
+    3300192: ID94 6
+    3300194: ID94 7
+    3300196: ID94 8
+    3300198: ID94 9
+    3300200: Plant_Snake_Leaf
+    3300202: Plant_Snake_Leaf 1
+    3300204: Plant_Snake_Leaf 10
+    3300206: Plant_Snake_Leaf 11
+    3300208: Plant_Snake_Leaf 12
+    3300210: Plant_Snake_Leaf 13
+    3300212: Plant_Snake_Leaf 14
+    3300214: Plant_Snake_Leaf 15
+    3300216: Plant_Snake_Leaf 16
+    3300218: Plant_Snake_Leaf 17
+    3300220: Plant_Snake_Leaf 18
+    3300222: Plant_Snake_Leaf 19
+    3300224: Plant_Snake_Leaf 2
+    3300226: Plant_Snake_Leaf 20
+    3300228: Plant_Snake_Leaf 21
+    3300230: Plant_Snake_Leaf 22
+    3300232: Plant_Snake_Leaf 23
+    3300234: Plant_Snake_Leaf 24
+    3300236: Plant_Snake_Leaf 25
+    3300238: Plant_Snake_Leaf 26
+    3300240: Plant_Snake_Leaf 27
+    3300242: Plant_Snake_Leaf 28
+    3300244: Plant_Snake_Leaf 29
+    3300246: Plant_Snake_Leaf 3
+    3300248: Plant_Snake_Leaf 30
+    3300250: Plant_Snake_Leaf 31
+    3300252: Plant_Snake_Leaf 32
+    3300254: Plant_Snake_Leaf 33
+    3300256: Plant_Snake_Leaf 34
+    3300258: Plant_Snake_Leaf 35
+    3300260: Plant_Snake_Leaf 36
+    3300262: Plant_Snake_Leaf 37
+    3300264: Plant_Snake_Leaf 38
+    3300266: Plant_Snake_Leaf 39
+    3300268: Plant_Snake_Leaf 4
+    3300270: Plant_Snake_Leaf 40
+    3300272: Plant_Snake_Leaf 41
+    3300274: Plant_Snake_Leaf 5
+    3300276: Plant_Snake_Leaf 6
+    3300278: Plant_Snake_Leaf 7
+    3300280: Plant_Snake_Leaf 8
+    3300282: Plant_Snake_Leaf 9
+    3300284: Plant_Snake_Pot
+    3300286: Plant_Snake_Pot 1
+    3300288: Plant_Snake_Pot 2
+    3300290: Plant_Snake_Pot 3
+    3300292: Plant_Snake_Pot 4
+    3300294: Plant_Snake_Pot 5
+    3300296: Plant_Snake_Pot 6
+    3300298: Plant_Snake_Pot 7
+    4300000: Cube
+    4300002: Component_2
+    4300004: Component_1
+    4300006: Component_1
+    4300008: Plant_Snake_Leaf
+    4300010: ID86
+    4300012: ID94
+    4300014: Plant_Snake_Pot
+    4300016: ID140
+    4300018: Plant_Snake_Pot
+    4300020: ID155
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
