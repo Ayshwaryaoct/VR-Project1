@@ -16,7 +16,7 @@ public class LightScript : MonoBehaviour
         _upposition = GameObject.Find("upPosition");
         _downposition = GameObject.Find("downPosition");
     }
-    ///*
+    /*
     void OnMouseDown()
     {
         if(test)
@@ -36,10 +36,10 @@ public class LightScript : MonoBehaviour
             _audioSource.Play();
         }
    }
-    //*/
+    */
 
 
-   /*
+   ///*
     bool triggered=true;
     bool collision;
     
@@ -81,5 +81,5 @@ public class LightScript : MonoBehaviour
             }
         }
     }
-*/
+//*/
 }
